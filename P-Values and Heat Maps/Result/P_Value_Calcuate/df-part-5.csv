@@ -1,0 +1,84 @@
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,AHRR-T1,SD,p-values
+1,air,1.00,0.06,NA
+2,4l/min,1.42,0.23,0.0376
+3,1l/min,2.28,0.16,0.0002
+4,0.5l/min,4.18,0.37,0.0001
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,ALU RT-T1,SD,p-values
+1,air,1.00,0.10,NA
+2,4l/min,0.80,0.13,0.1022
+3,1l/min,0.68,0.12,0.0238
+4,0.5l/min,0.60,0.05,0.0034
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,GPX3-T1,SD,p-values
+1,air,1.00,0.07,NA
+2,4l/min,1.27,0.14,0.0404
+3,1l/min,1.70,0.13,0.0012
+4,0.5l/min,2.26,0.48,0.0108
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,HS 3 UTR-T1,SD,p-values
+1,air,1.00,0.07,NA
+2,4l/min,0.81,0.11,0.0651
+3,1l/min,0.66,0.12,0.0133
+4,0.5l/min,0.57,0.03,0.0006
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,HS 5 UTR-T1,SD,p-values
+1,air,1.00,0.13,NA
+2,4l/min,0.83,0.12,0.1714
+3,1l/min,0.70,0.14,0.053
+4,0.5l/min,0.56,0.03,0.0046
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,ORF1-T1,SD,p-values
+1,air,1.00,0.09,NA
+2,4l/min,0.84,0.10,0.1085
+3,1l/min,0.71,0.14,0.0392
+4,0.5l/min,0.56,0.04,0.0015
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,ORF2-T1,SD,p-values
+1,air,1.00,0.09,NA
+2,4l/min,0.82,0.16,0.1647
+3,1l/min,0.70,0.14,0.0355
+4,0.5l/min,0.57,0.05,0.0019
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,CYP1A1-T1,SD,p-values
+1,air,1.02,0.24,NA
+2,4l/min,69.46,6.71,0.0001
+3,1l/min,887.36,119.04,0.0002
+4,0.5l/min,5465.07,576.85,0.0001
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,DNMT3B-T1,SD,p-values
+1,air,1.01,0.13,NA
+2,4l/min,0.93,0.03,0.3577
+3,1l/min,0.75,0.02,0.0267
+4,0.5l/min,0.86,0.13,0.2305
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,DNMT3A-T1,SD,p-values
+1,air,1.00,0.04,NA
+2,4l/min,0.95,0.09,0.4289
+3,1l/min,0.83,0.05,0.01
+4,0.5l/min,0.88,0.01,0.0073
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,DNMT1-T1,SD,p-values
+1,air,1.00,0.04,NA
+2,4l/min,0.93,0.06,0.168
+3,1l/min,0.85,0.02,0.0044
+4,0.5l/min,0.89,0.01,0.0099
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,TET1-T1,SD,p-values
+1,air,1.01,0.15,NA
+2,4l/min,0.69,0.02,0.0215
+3,1l/min,0.45,0.11,0.0065
+4,0.5l/min,0.35,0.05,0.0019
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,TET2-T1,SD,p-values
+1,air,1.00,0.01,NA
+2,4l/min,0.89,0.16,0.3004
+3,1l/min,0.78,0.01,0.0
+4,0.5l/min,0.82,0.04,0.0016
+,five,Average5,SD5,p_vales
+0,Normalized to B actin ,TET3-T1,SD,p-values
+1,air,1.00,0.07,NA
+2,4l/min,1.03,0.12,0.7274
+3,1l/min,0.85,0.08,0.0709
+4,0.5l/min,0.78,0.10,0.0355

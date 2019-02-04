@@ -1,0 +1,42 @@
+,six,Average6,SD6,p_vales
+0,Normalized to GAPDH,AHRR-T1,SD,p-values
+1,air,1.00,0.02,NA
+2,4l/min,1.47,0.31,0.0588
+3,1l/min,1.96,0.27,0.0036
+4,0.5l/min,3.06,0.35,0.0005
+,six,Average6,SD6,p_vales
+0,Normalized to GAPDH,ALU RT-T1,SD,p-values
+1,air,1.00,0.06,NA
+2,4l/min,0.83,0.17,0.1777
+3,1l/min,0.59,0.14,0.0096
+4,0.5l/min,0.44,0.05,0.0002
+,six,Average6,SD6,p_vales
+0,Normalized to GAPDH,GPX3-T1,SD,p-values
+1,air,1.00,0.08,NA
+2,4l/min,1.30,0.20,0.0734
+3,1l/min,1.45,0.20,0.0224
+4,0.5l/min,1.65,0.39,0.0474
+,six,Average6,SD6,p_vales
+0,Normalized to GAPDH,HS 3 UTR-T1,SD,p-values
+1,air,1.00,0.02,NA
+2,4l/min,0.83,0.15,0.1236
+3,1l/min,0.56,0.15,0.0073
+4,0.5l/min,0.41,0.03,0.0
+,six,Average6,SD6,p_vales
+0,Normalized to GAPDH,HS 5 UTR-T1,SD,p-values
+1,air,1.00,0.08,NA
+2,4l/min,0.86,0.16,0.2467
+3,1l/min,0.61,0.17,0.0229
+4,0.5l/min,0.41,0.03,0.0003
+,six,Average6,SD6,p_vales
+0,Normalized to GAPDH,ORF1-T1,SD,p-values
+1,air,1.00,0.04,NA
+2,4l/min,0.87,0.12,0.1497
+3,1l/min,0.61,0.16,0.0149
+4,0.5l/min,0.41,0.04,0.0001
+,six,Average6,SD6,p_vales
+0,Normalized to GAPDH,ORF2-T1,SD,p-values
+1,air,1.00,0.05,NA
+2,4l/min,0.85,0.20,0.2761
+3,1l/min,0.61,0.16,0.0157
+4,0.5l/min,0.42,0.05,0.0001

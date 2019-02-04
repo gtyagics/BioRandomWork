@@ -1,0 +1,61 @@
+﻿one,Average1,SD1,two,Average2,SD2,three,Average3,SD3,four,Average4,SD4
+Normalized to GAPDH,CYP1A1-T0,SD,Normalized to GAPDH,CYP1A1-T1,SD,Normalized to GAPDH,CYP1A1-PT2,SD,Normalized to GAPDH,CYP1A1-PT7,SD
+air,1.07,0.45,air,1.02,0.29,air,1.08,0.46,air,1.04,0.32
+4l/min,1330.74,188.79,4l/min,71.04,6.04,4l/min,2.44,1.26,4l/min,0.9,0.16
+1l/min,8759.31,378.43,1l/min,758,138.13,1l/min,302.14,39.75,1l/min,2.2,1.1
+0.5l/min,6940.4,457.14,0.5l/min,3969.23,528.01,0.5l/min,1543.41,369.64,0.5l/min,6.1,2.03
+Normalized to GAPDH,ALU-RT-T0,SD,Normalized to GAPDH,ALU-RT-T1,SD,Normalized to GAPDH,ALU-RT-PT2,SD,Normalized to GAPDH,ALU-RT-PT7,SD
+air,1,0.05,air,1,0.06,air,1.01,0.16,air,1,0.1
+4l/min,1.08,0.17,4l/min,0.83,0.17,4l/min,0.66,0.1,4l/min,0.92,0.35
+1l/min,0.81,0.1,1l/min,0.59,0.14,1l/min,0.85,0.37,1l/min,0.91,0.2
+0.5l/min,0.66,0.01,0.5l/min,0.44,0.05,0.5l/min,0.57,0.11,0.5l/min,0.94,0.08
+Normalized to GAPDH,HS 5 UTR-T0,SD,Normalized to GAPDH,HS 5 UTR-T1,SD,Normalized to GAPDH,HS 5 UTR-PT2,SD,Normalized to GAPDH,HS 5 UTR-PT7,SD
+air,1,0.05,air,1,0.08,air,1.01,0.17,air,1,0.1
+4l/min,0.9,0.11,4l/min,0.86,0.16,4l/min,0.87,0.09,4l/min,1.04,0.31
+1l/min,0.79,0.1,1l/min,0.61,0.17,1l/min,0.93,0.19,1l/min,0.93,0.14
+0.5l/min,0.5,0.05,0.5l/min,0.41,0.03,0.5l/min,0.75,0.19,0.5l/min,1.09,0.07
+Normalized to GAPDH,HS 3 UTR-T0,SD,Normalized to GAPDH,HS 3 UTR-T1,SD,Normalized to GAPDH,HS 3 UTR-PT2,SD,Normalized to GAPDH,HS 3 UTR-PT7,SD
+air,1,0.06,air,1,0.02,air,1,0.14,air,1.01,0.09
+4l/min,0.96,0.16,4l/min,0.83,0.15,4l/min,0.83,0.11,4l/min,1.06,0.42
+1l/min,0.78,0.08,1l/min,0.56,0.15,1l/min,0.87,0.23,1l/min,0.91,0.14
+0.5l/min,0.55,0.12,0.5l/min,0.41,0.03,0.5l/min,0.69,0.13,0.5l/min,1.09,0.09
+Normalized to GAPDH,ORF1-T0,SD,Normalized to GAPDH,ORF1-T1,SD,Normalized to GAPDH,ORF1-PT2,SD,Normalized to GAPDH,ORF1-PT7,SD
+air,1.01,0.11,air,1,0.04,air,1.01,0.13,air,1,0.05
+4l/min,1.05,0.15,4l/min,0.87,0.12,4l/min,0.98,0.05,4l/min,1.1,0.46
+1l/min,0.88,0.12,1l/min,0.61,0.16,1l/min,0.88,0.17,1l/min,0.91,0.12
+0.5l/min,0.58,0.07,0.5l/min,0.41,0.04,0.5l/min,0.73,0.2,0.5l/min,1,0.11
+Normalized to GAPDH,ORF2-T0,SD,Normalized to GAPDH,ORF2-T1,SD,Normalized to GAPDH,ORF2-PT2,SD,Normalized to GAPDH,ORF2-PT7,SD
+air,1,0.04,air,1,0.05,air,1.01,0.18,air,1.01,0.11
+4l/min,1.05,0.18,4l/min,0.85,0.2,4l/min,1.01,0.14,4l/min,1.07,0.42
+1l/min,0.85,0.11,1l/min,0.61,0.16,1l/min,0.92,0.19,1l/min,1,0.15
+0.5l/min,0.58,0.09,0.5l/min,0.42,0.05,0.5l/min,0.79,0.15,0.5l/min,1.19,0.17
+Normalized to GAPDH,DNMT1-T0,SD,Normalized to GAPDH,DNMT1-T1,SD,Normalized to GAPDH,DNMT1-PT2,SD,Normalized to GAPDH,DNMT1-PT7,SD
+air,1,0.06,air,1.01,0.08,air,1,0.1,air,1.01,0.1
+4l/min,0.87,0.1,4l/min,0.96,0.09,4l/min,0.94,0.23,4l/min,0.95,0.18
+1l/min,0.83,0.05,1l/min,0.72,0.06,1l/min,0.77,0.15,1l/min,0.81,0.09
+0.5l/min,0.6,0.02,0.5l/min,0.65,0.02,0.5l/min,0.74,0.03,0.5l/min,1.06,0.16
+Normalized to GAPDH,DNMT3A-T0,SD,Normalized to GAPDH,DNMT3A-T1,SD,Normalized to GAPDH,DNMT3A-PT2,SD,Normalized to GAPDH,DNMT3A-PT7,SD
+air,1,0.08,air,1,0.01,air,1,0.07,air,1,0.07
+4l/min,0.93,0.08,4l/min,0.99,0.14,4l/min,1.03,0.15,4l/min,1.05,0.24
+1l/min,0.86,0.01,1l/min,0.72,0.1,1l/min,0.95,0.06,1l/min,0.96,0.09
+0.5l/min,0.55,0.15,0.5l/min,0.64,0.02,0.5l/min,0.97,0.17,0.5l/min,1.34,0.1
+Normalized to GAPDH,DNMT3B-T0,SD,Normalized to GAPDH,DNMT3B-T1,SD,Normalized to GAPDH,DNMT3B-PT2,SD,Normalized to GAPDH,DNMT3B-PT7,SD
+air,1,0.06,air,1,0.08,air,1,0.1,air,1,0.14
+4l/min,0.98,0.15,4l/min,0.96,0.07,4l/min,0.93,0.07,4l/min,1.01,0.22
+1l/min,0.77,0.04,1l/min,0.65,0.07,1l/min,0.98,0.18,1l/min,0.9,0.1
+0.5l/min,0.45,0.04,0.5l/min,0.63,0.1,0.5l/min,0.94,0.15,0.5l/min,1.06,0.07
+Normalized to GAPDH,TET1-T0,SD,Normalized to GAPDH,TET1-T1,SD,Normalized to GAPDH,TET1-PT2,SD,Normalized to GAPDH,TET1-PT7,SD
+air,1,0.06,air,1,0.11,air,1.01,0.21,air,1,0.12
+4l/min,1.28,0.29,4l/min,0.71,0.04,4l/min,0.91,0.18,4l/min,0.97,0.23
+1l/min,0.65,0.23,1l/min,0.38,0.12,1l/min,0.71,0.05,1l/min,0.9,0.04
+0.5l/min,0.18,0.08,0.5l/min,0.25,0.03,0.5l/min,0.49,0.09,0.5l/min,1.14,0.19
+Normalized to GAPDH,TET2-T0,SD,Normalized to GAPDH,TET2-T1,SD,Normalized to GAPDH,TET2-PT2,SD,Normalized to GAPDH,TET2-PT7,SD
+air,1,0.09,air,1,0.05,air,1.01,0.13,air,1.01,0.08
+4l/min,0.87,0.11,4l/min,0.92,0.2,4l/min,1.01,0.18,4l/min,1,0.26
+1l/min,0.8,0.03,1l/min,0.67,0.06,1l/min,0.91,0.06,1l/min,0.89,0.01
+0.5l/min,0.55,0.03,0.5l/min,0.6,0.04,0.5l/min,0.87,0.11,0.5l/min,1.34,0.1
+Normalized to GAPDH,TET3-T0,SD,Normalized to GAPDH,TET3-T1,SD,Normalized to GAPDH,TET3-PT2,SD,Normalized to GAPDH,TET3-PT7,SD
+air,1,0.06,air,1,0.03,air,1,0.14,air,1,0.12
+4l/min,0.82,0.06,4l/min,1.06,0.17,4l/min,1.13,0.19,4l/min,1.04,0.16
+1l/min,0.8,0.03,1l/min,0.73,0.12,1l/min,0.93,0.06,1l/min,0.98,0.09
+0.5l/min,0.7,0.04,0.5l/min,0.57,0.08,0.5l/min,1,0.15,0.5l/min,1.31,0.08

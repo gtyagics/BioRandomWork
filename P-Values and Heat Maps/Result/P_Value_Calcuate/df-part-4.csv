@@ -1,0 +1,84 @@
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,AHRR-PT2,SD,p-values
+1,air,1.00,0.11,NA
+2,4l/min,0.96,0.09,0.6514
+3,1l/min,1.63,0.20,0.0088
+4,0.5l/min,2.65,0.61,0.01
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,ALU RT-PT2,SD,p-values
+1,air,1.01,0.16,NA
+2,4l/min,0.66,0.10,0.0325
+3,1l/min,0.85,0.37,0.5296
+4,0.5l/min,0.57,0.11,0.0172
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,GPX3-PT2,SD,p-values
+1,air,1.01,0.09,NA
+2,4l/min,1.08,0.23,0.6492
+3,1l/min,1.10,0.16,0.4436
+4,0.5l/min,1.67,0.08,0.0007
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,HS 3 UTR-PT2,SD,p-values
+1,air,1.00,0.14,NA
+2,4l/min,0.83,0.11,0.1735
+3,1l/min,0.87,0.23,0.4501
+4,0.5l/min,0.69,0.13,0.0483
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,HS 5 UTR-PT2,SD,p-values
+1,air,1.01,0.17,NA
+2,4l/min,0.87,0.09,0.276
+3,1l/min,0.93,0.19,0.6157
+4,0.5l/min,0.75,0.19,0.1521
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,ORF1-PT2,SD,p-values
+1,air,1.01,0.13,NA
+2,4l/min,0.98,0.05,0.728
+3,1l/min,0.88,0.17,0.3521
+4,0.5l/min,0.73,0.20,0.1118
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,ORF2-PT2,SD,p-values
+1,air,1.01,0.18,NA
+2,4l/min,1.01,0.14,1.0
+3,1l/min,0.92,0.19,0.5835
+4,0.5l/min,0.79,0.15,0.1792
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,CYP1A1-PT2,SD,p-values
+1,air,1.08,0.46,NA
+2,4l/min,2.44,1.26,0.1539
+3,1l/min,302.14,39.75,0.0002
+4,0.5l/min,1543.41,369.64,0.0019
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,DNMT3B-PT2,SD,p-values
+1,air,1.00,0.10,NA
+2,4l/min,0.93,0.07,0.3768
+3,1l/min,0.98,0.18,0.8746
+4,0.5l/min,0.94,0.15,0.5952
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,DNMT3A-PT2,SD,p-values
+1,air,1.00,0.07,NA
+2,4l/min,1.03,0.15,0.7693
+3,1l/min,0.95,0.06,0.4007
+4,0.5l/min,0.97,0.17,0.7915
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,DNMT1-PT2,SD,p-values
+1,air,1.00,0.10,NA
+2,4l/min,0.94,0.23,0.6999
+3,1l/min,0.77,0.15,0.0916
+4,0.5l/min,0.74,0.03,0.0125
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,TET1-PT2,SD,p-values
+1,air,1.01,0.21,NA
+2,4l/min,0.91,0.18,0.5651
+3,1l/min,0.71,0.05,0.0738
+4,0.5l/min,0.49,0.09,0.0169
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,TET2-PT2,SD,p-values
+1,air,1.01,0.13,NA
+2,4l/min,1.01,0.18,1.0
+3,1l/min,0.91,0.06,0.293
+4,0.5l/min,0.87,0.11,0.2276
+,four,Average4,SD4,p_vales
+0,Normalized to GAPDH,TET3-PT2,SD,p-values
+1,air,1.00,0.14,NA
+2,4l/min,1.13,0.19,0.3941
+3,1l/min,0.93,0.06,0.4706
+4,0.5l/min,1.00,0.15,1.0

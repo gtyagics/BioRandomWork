@@ -1,0 +1,61 @@
+﻿one,Average1,SD1,two,Average2,SD2,three,Average3,SD3,four,Average4,SD4
+Normalized to B actin ,CY1P1A1-T0,SD,Normalized to B actin ,CY1P1A1-T1,SD,Normalized to B actin ,CY1P1A1-PT2,SD,Normalized to B actin ,CY1P1A1-PT7,SD
+air,1.06,0.41,air,1.02,0.24,air,1.09,0.48,air,1.04,0.31
+4l/min,1487.71,210.27,4l/min,69.46,6.71,4l/min,2.17,1.26,4l/min,0.93,0.06
+1l/min,9406.97,128.81,1l/min,887.36,119.04,1l/min,309.53,59.83,1l/min,2.26,1.09
+0.5l/min,7993.7,592.42,0.5l/min,5465.07,576.85,0.5l/min,1496.78,290.57,0.5l/min,5.05,1.99
+Normalized to B actin ,ALU-RT-T0,SD,Normalized to B actin ,ALU-RT-T1,SD,Normalized to B actin ,ALU-RT-PT2,SD,Normalized to B actin ,ALU-RT-PT7,SD
+air,1,0.06,air,1,0.1,air,1.01,0.15,air,1,0.09
+4l/min,1.21,0.24,4l/min,0.8,0.13,4l/min,0.58,0.08,4l/min,0.93,0.25
+1l/min,0.87,0.14,1l/min,0.68,0.12,1l/min,0.85,0.29,1l/min,0.94,0.22
+0.5l/min,0.76,0.03,0.5l/min,0.6,0.05,0.5l/min,0.56,0.07,0.5l/min,0.77,0.05
+Normalized to B actin ,HS 5 UTR-T0,SD,Normalized to B actin ,HS 5 UTR-T1,SD,Normalized to B actin ,HS 5 UTR-PT2,SD,Normalized to B actin ,HS 5 UTR-PT7,SD
+air,1,0.09,air,1,0.13,air,1.01,0.15,air,1,0.09
+4l/min,1.01,0.15,4l/min,0.83,0.12,4l/min,0.77,0.11,4l/min,1.06,0.21
+1l/min,0.85,0.13,1l/min,0.7,0.14,1l/min,0.95,0.16,1l/min,0.97,0.2
+0.5l/min,0.58,0.05,0.5l/min,0.56,0.03,0.5l/min,0.73,0.14,0.5l/min,0.89,0.02
+Normalized to B actin ,HS 3 UTR-T0,SD,Normalized to B actin ,HS 3 UTR-T1,SD,Normalized to B actin ,HS 3 UTR-PT2,SD,Normalized to B actin ,HS 3 UTR-PT7,SD
+air,1,0.04,air,1,0.07,air,1,0.12,air,1,0.08
+4l/min,1.08,0.22,4l/min,0.81,0.11,4l/min,0.72,0.11,4l/min,1.07,0.31
+1l/min,0.84,0.11,1l/min,0.66,0.12,1l/min,0.87,0.16,1l/min,0.94,0.21
+0.5l/min,0.63,0.15,0.5l/min,0.57,0.03,0.5l/min,0.67,0.08,0.5l/min,0.88,0.02
+Normalized to B actin ,ORF1-T0,SD,Normalized to B actin ,ORF1-T1,SD,Normalized to B actin ,ORF1-PT2,SD,Normalized to B actin ,ORF1-PT7,SD
+air,1.01,0.14,air,1,0.09,air,1.01,0.1,air,1,0.03
+4l/min,1.18,0.2,4l/min,0.84,0.1,4l/min,0.85,0.08,4l/min,1.11,0.34
+1l/min,0.94,0.15,1l/min,0.71,0.14,1l/min,0.89,0.12,1l/min,0.93,0.18
+0.5l/min,0.67,0.08,0.5l/min,0.56,0.04,0.5l/min,0.71,0.14,0.5l/min,0.81,0.05
+Normalized to B actin ,ORF2-T0,SD,Normalized to B actin ,ORF2-T1,SD,Normalized to B actin ,ORF2-PT2,SD,Normalized to B actin ,ORF2-PT7,SD
+air,1,0.06,air,1,0.09,air,1.01,0.15,air,1,0.11
+4l/min,1.18,0.25,4l/min,0.82,0.16,4l/min,0.89,0.18,4l/min,1.08,0.3
+1l/min,0.91,0.14,1l/min,0.7,0.14,1l/min,0.93,0.14,1l/min,1.03,0.22
+0.5l/min,0.67,0.11,0.5l/min,0.57,0.05,0.5l/min,0.77,0.1,0.5l/min,0.96,0.06
+Normalized to B actin ,DNMT1-T0,SD,Normalized to B actin ,DNMT1-T1,SD,Normalized to B actin ,DNMT1-PT2,SD,Normalized to B actin ,DNMT1-PT7,SD
+air,1,0.04,air,1,0.04,air,1,0.08,air,1,0.09
+4l/min,0.97,0.12,4l/min,0.93,0.06,4l/min,0.81,0.1,4l/min,0.97,0.06
+1l/min,0.9,0.03,1l/min,0.85,0.02,1l/min,0.78,0.09,1l/min,0.83,0.13
+0.5l/min,0.69,0.01,0.5l/min,0.89,0.01,0.5l/min,0.72,0.05,0.5l/min,0.85,0.08
+Normalized to B actin ,DNMT3A-T0,SD,Normalized to B actin ,DNMT3A-T1,SD,Normalized to B actin ,DNMT3A-PT2,SD,Normalized to B actin ,DNMT3A-PT7,SD
+air,1,0.04,air,1,0.04,air,1,0.05,air,1,0.08
+4l/min,1.04,0.1,4l/min,0.95,0.09,4l/min,0.89,0.06,4l/min,1.08,0.15
+1l/min,0.92,0.02,1l/min,0.83,0.05,1l/min,0.97,0.06,1l/min,0.99,0.09
+0.5l/min,0.64,0.19,0.5l/min,0.88,0.01,0.5l/min,0.94,0.12,0.5l/min,1.09,0.02
+Normalized to B actin ,DNMT3B-T0,SD,Normalized to B actin ,DNMT3B-T1,SD,Normalized to B actin ,DNMT3B-PT2,SD,Normalized to B actin ,DNMT3B-PT7,SD
+air,1,0.05,air,1.01,0.13,air,1,0.08,air,1,0.12
+4l/min,1.09,0.18,4l/min,0.93,0.03,4l/min,0.81,0.07,4l/min,1.04,0.1
+1l/min,0.83,0.06,1l/min,0.75,0.02,1l/min,0.99,0.1,1l/min,0.94,0.18
+0.5l/min,0.52,0.06,0.5l/min,0.86,0.13,0.5l/min,0.92,0.1,0.5l/min,0.86,0.02
+Normalized to B actin ,TET1-T0,SD,Normalized to B actin ,TET1-T1,SD,Normalized to B actin ,TET1-PT2,SD,Normalized to B actin ,TET1-PT7,SD
+air,1,0.15,air,1.01,0.15,air,1.01,0.18,air,1.01,0.14
+4l/min,1.44,0.37,4l/min,0.69,0.02,4l/min,0.79,0.06,4l/min,0.99,0.12
+1l/min,0.69,0.25,1l/min,0.45,0.11,1l/min,0.72,0.04,1l/min,0.93,0.12
+0.5l/min,0.21,0.1,0.5l/min,0.35,0.05,0.5l/min,0.47,0.06,0.5l/min,0.93,0.17
+Normalized to B actin ,TET2-T0,SD,Normalized to B actin ,TET2-T1,SD,Normalized to B actin ,TET2-PT2,SD,Normalized to B actin ,TET2-PT7,SD
+air,1,0.01,air,1,0.01,air,1,0.11,air,1,0.08
+4l/min,0.98,0.16,4l/min,0.89,0.16,4l/min,0.87,0.06,4l/min,1.02,0.16
+1l/min,0.86,0.03,1l/min,0.78,0.01,1l/min,0.92,0.02,1l/min,0.91,0.09
+0.5l/min,0.64,0.04,0.5l/min,0.82,0.04,0.5l/min,0.85,0.06,0.5l/min,1.08,0.09
+Normalized to B actin ,TET3-T0,SD,Normalized to B actin ,TET3-T1,SD,Normalized to B actin ,TET3-PT2,SD,Normalized to B actin ,TET3-PT7,SD
+air,1,0.04,air,1,0.07,air,1,0.11,air,1.01,0.13
+4l/min,0.92,0.1,4l/min,1.03,0.12,4l/min,0.98,0.13,4l/min,1.08,0.1
+1l/min,0.86,0.06,1l/min,0.85,0.08,1l/min,0.94,0.08,1l/min,1.01,0.07
+0.5l/min,0.8,0.03,0.5l/min,0.78,0.1,0.5l/min,0.98,0.09,0.5l/min,1.06,0.04
